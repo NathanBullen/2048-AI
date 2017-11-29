@@ -1,0 +1,7 @@
+Max Depth - 6 
+Generated - 2055928 
+Expanded - 1394497 
+Time - 1.756 seconds
+Expanded/Second - 794219 
+Max Tile - 2048 
+Score - 27256 
