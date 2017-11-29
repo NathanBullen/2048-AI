@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Name        : ai.c
+ Author      : Nathan Bullen
+ Description : Ai for the Console version of the game "2048"
+ ============================================================================
+ */
+
 #include <time.h>
 #include <stdlib.h>
 #include "ai.h"
@@ -7,15 +15,6 @@
 #define NUM_MOVES 3
 struct heap h;
 
-/* -Angus
-* Angus
-* Don't dog us
-* Give us a good score
-* Don't be a bore
-* Be a honey
-* Angus.money
-* ~Fin
-*/
 void initialize_ai(){
 	heap_init(&h);
 }
